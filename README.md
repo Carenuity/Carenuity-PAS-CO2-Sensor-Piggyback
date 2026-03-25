@@ -1,7 +1,7 @@
 # Carenuity PAS CO₂ Piggyback
 
 ![image alt](https://github.com/0mollo/Carenuity-PAS-CO2-Piggyack/blob/main/PAS%20C02%20Top%20View.png?raw=true) ![image alt](https://github.com/0mollo/Carenuity-PAS-CO2-Piggyack/blob/main/PAS%20C02%20Bottom%20View.png?raw=true)
-Piggyback PCB for the **Infineon XENSIV™ PAS CO₂** sensor, designed for easy integration into the **Carenuity modular hardware ecosystem**.
+- Piggyback PCB for the **Infineon XENSIV™ PAS CO₂** sensor, designed for easy integration into the **Carenuity modular hardware ecosystem**.
 
 ## Features
 
