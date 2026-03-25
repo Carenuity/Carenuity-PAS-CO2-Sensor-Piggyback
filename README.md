@@ -25,9 +25,7 @@ Used for I2C pull-up on:
 - Board revision shown: **V1.1**
 - Best treated as a **3.3V logic** interface unless otherwise confirmed in the sensor documentation
 
-  # Pinout
-
-## Signal List
+ ## Pinout
 
 | Signal | Description |
 |--------|-------------|
@@ -49,7 +47,9 @@ Used for I2C pull-up on:
 | R1  | 10K   |
 | R2  | 10K   |
 
-Pull-ups are connected to **3V3**.
+## Schematic layout
+
+[Schematic layout]()
 
 ## Applications
 
@@ -60,7 +60,7 @@ Pull-ups are connected to **3V3**.
 
 ## Firmware/Example
 
-[Code Example]()
+[Code Example](https://github.com/0mollo/Carenuity-PAS-CO2-Piggyack/blob/main/Code%20Example.docx)
 
 ## License
 
