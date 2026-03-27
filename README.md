@@ -47,6 +47,22 @@ Used for I2C pull-up on:
 | R1  | 10K   |
 | R2  | 10K   |
 
+## Pin Mapping
+
+## Pin Mapping
+
+| PAS CO2 | C3-Mini | GPIO |
+|---------|---------|------|
+| 5V      | 5V      | VBUS |
+| PWM     | D3      | GPIO7 |
+| PSEL    | D4      | GPIO6 |
+| INT     | D7      | GPIO4 |
+| GND     | GND     | GND |
+| 3V3     | 3V3     | 3.3V |
+| TX      | TX      | U0TXD |
+| SCL     | D1      | GPIO10 |
+| SDA     | D2      | GPIO8 |
+
 ## Schematic layout
 
 [Schematic layout](https://github.com/0mollo/Carenuity-PAS-CO2-Piggyack/blob/main/PAS%20CO2%20Sensor%20Piggyback.pdf)
